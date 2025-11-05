@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-我是一名将于2025年12月毕业的博士生，我的研究方向是航空运输的高分辨率排放计算和航空减排潜力估算。
 I will receive Ph.D. degree under the supervision of Prof. Feng Lu from the State Key Laboratory of Geographic Information Science and Technology, Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences (CAS) in 2025.12, and received the M.S. degree under the supervision of Prof. Jianping Wu from The East China Normal University.
 
 My research interests include Spatiotemporal data mining, Aviation emission and emission mitigation.
